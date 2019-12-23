@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "arkhamasliyum",
+        "JWT_KEY": "arkhamasliyum58"
+    }
+}
